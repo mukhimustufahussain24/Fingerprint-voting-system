@@ -1,0 +1,97 @@
+C:\Users\jr\Documents\MustufaAndSid\Project\Fingerprint Voting System\bin\x64\Debug\Fingerprint Voting System.exe.config
+C:\Users\jr\Documents\MustufaAndSid\Project\Fingerprint Voting System\bin\x64\Debug\Fingerprint Voting System.exe
+C:\Users\jr\Documents\MustufaAndSid\Project\Fingerprint Voting System\bin\x64\Debug\Fingerprint Voting System.pdb
+C:\Users\jr\Documents\MustufaAndSid\Project\Fingerprint Voting System\bin\x64\Debug\SecuGen.FDxSDKPro.Windows.dll
+C:\Users\jr\Documents\MustufaAndSid\Project\Fingerprint Voting System\obj\x64\Debug\Fingerprint Voting System.csproj.AssemblyReference.cache
+C:\Users\jr\Documents\MustufaAndSid\Project\Fingerprint Voting System\obj\x64\Debug\Fingerprint_Voting_System.AddCandidate.resources
+C:\Users\jr\Documents\MustufaAndSid\Project\Fingerprint Voting System\obj\x64\Debug\Fingerprint_Voting_System.AddElection.resources
+C:\Users\jr\Documents\MustufaAndSid\Project\Fingerprint Voting System\obj\x64\Debug\Fingerprint_Voting_System.AddVoter.resources
+C:\Users\jr\Documents\MustufaAndSid\Project\Fingerprint Voting System\obj\x64\Debug\Fingerprint_Voting_Sysyem.AdminLogin.resources
+C:\Users\jr\Documents\MustufaAndSid\Project\Fingerprint Voting System\obj\x64\Debug\Fingerprint_Voting_System.AdminMenu.resources
+C:\Users\jr\Documents\MustufaAndSid\Project\Fingerprint Voting System\obj\x64\Debug\Fingerprint_Voting_System.Properties.Resources.resources
+C:\Users\jr\Documents\MustufaAndSid\Project\Fingerprint Voting System\obj\x64\Debug\Fingerprint_Voting_System.Result.resources
+C:\Users\jr\Documents\MustufaAndSid\Project\Fingerprint Voting System\obj\x64\Debug\Fingerprint_Voting_System.TakeElection.resources
+C:\Users\jr\Documents\MustufaAndSid\Project\Fingerprint Voting System\obj\x64\Debug\Fingerprint_Voting_System.Update.resources
+C:\Users\jr\Documents\MustufaAndSid\Project\Fingerprint Voting System\obj\x64\Debug\Fingerprint_Voting_System.ViewCandidate.resources
+C:\Users\jr\Documents\MustufaAndSid\Project\Fingerprint Voting System\obj\x64\Debug\Fingerprint_Voting_System.ViewResult.resources
+C:\Users\jr\Documents\MustufaAndSid\Project\Fingerprint Voting System\obj\x64\Debug\Fingerprint Voting System.csproj.GenerateResource.cache
+C:\Users\jr\Documents\MustufaAndSid\Project\Fingerprint Voting System\obj\x64\Debug\Fingerprint Voting System.csproj.CoreCompileInputs.cache
+C:\Users\jr\Documents\MustufaAndSid\Project\Fingerprint Voting System\obj\x64\Debug\Fingerprint Voting System.csproj.CopyComplete
+C:\Users\jr\Documents\MustufaAndSid\Project\Fingerprint Voting System\obj\x64\Debug\Fingerprint Voting System.exe
+C:\Users\jr\Documents\MustufaAndSid\Project\Fingerprint Voting System\obj\x64\Debug\Fingerprint Voting System.pdb
+C:\Users\jr\Documents\MustufaAndSid\Project\Fingerprint Voting System\obj\x64\Debug\Fingerprint_Voting_System.Form1.resources
+C:\Desktop\Project\Fingerprint Voting System\bin\x64\Debug\Fingerprint Voting System.exe.config
+C:\Desktop\Project\Fingerprint Voting System\bin\x64\Debug\Fingerprint Voting System.exe
+C:\Desktop\Project\Fingerprint Voting System\bin\x64\Debug\Fingerprint Voting System.pdb
+C:\Desktop\Project\Fingerprint Voting System\obj\x64\Debug\Fingerprint_Voting_System.AddCandidate.resources
+C:\Desktop\Project\Fingerprint Voting System\obj\x64\Debug\Fingerprint_Voting_System.AddElection.resources
+C:\Desktop\Project\Fingerprint Voting System\obj\x64\Debug\Fingerprint_Voting_System.AddVoter.resources
+C:\Desktop\Project\Fingerprint Voting System\obj\x64\Debug\Fingerprint_Voting_Sysyem.AdminLogin.resources
+C:\Desktop\Project\Fingerprint Voting System\obj\x64\Debug\Fingerprint_Voting_System.AdminMenu.resources
+C:\Desktop\Project\Fingerprint Voting System\obj\x64\Debug\Fingerprint_Voting_System.Properties.Resources.resources
+C:\Desktop\Project\Fingerprint Voting System\obj\x64\Debug\Fingerprint_Voting_System.Result.resources
+C:\Desktop\Project\Fingerprint Voting System\obj\x64\Debug\Fingerprint_Voting_System.TakeElection.resources
+C:\Desktop\Project\Fingerprint Voting System\obj\x64\Debug\Fingerprint_Voting_System.Update.resources
+C:\Desktop\Project\Fingerprint Voting System\obj\x64\Debug\Fingerprint_Voting_System.ViewCandidate.resources
+C:\Desktop\Project\Fingerprint Voting System\obj\x64\Debug\Fingerprint_Voting_System.ViewResult.resources
+C:\Desktop\Project\Fingerprint Voting System\obj\x64\Debug\Fingerprint Voting System.csproj.GenerateResource.cache
+C:\Desktop\Project\Fingerprint Voting System\obj\x64\Debug\Fingerprint Voting System.csproj.CoreCompileInputs.cache
+C:\Desktop\Project\Fingerprint Voting System\obj\x64\Debug\Fingerprint Voting System.csproj.CopyComplete
+C:\Desktop\Project\Fingerprint Voting System\obj\x64\Debug\Fingerprint Voting System.exe
+C:\Desktop\Project\Fingerprint Voting System\obj\x64\Debug\Fingerprint Voting System.pdb
+C:\Desktop\Project\Fingerprint Voting System\bin\x64\Debug\Interop.WMPLib.dll
+C:\Desktop\Project\Fingerprint Voting System\bin\x64\Debug\AxInterop.WMPLib.dll
+C:\Desktop\Project\Fingerprint Voting System\obj\x64\Debug\Interop.WMPLib.dll
+C:\Desktop\Project\Fingerprint Voting System\obj\x64\Debug\AxInterop.WMPLib.dll
+C:\Desktop\Project\Fingerprint Voting System\obj\x64\Debug\Fingerprint Voting System.csproj.ResolveComReference.cache
+C:\Desktop\Project\Fingerprint Voting System\obj\x64\Debug\Fingerprint Voting System.csproj.AssemblyReference.cache
+C:\Desktop\Project\Fingerprint Voting System\bin\x64\Debug\gu-IN\Fingerprint Voting System.resources.dll
+C:\Desktop\Project\Fingerprint Voting System\obj\x64\Debug\Fingerprint_Voting_System.AdminMenu.gu-IN.resources
+C:\Desktop\Project\Fingerprint Voting System\obj\x64\Debug\gu-IN\Fingerprint Voting System.resources.dll
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\bin\x64\Debug\Fingerprint Voting System.exe.config
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\bin\x64\Debug\Fingerprint Voting System.exe
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\bin\x64\Debug\Fingerprint Voting System.pdb
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\bin\x64\Debug\gu-IN\Fingerprint Voting System.resources.dll
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\bin\x64\Debug\Interop.WMPLib.dll
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\bin\x64\Debug\AxInterop.WMPLib.dll
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\obj\x64\Debug\Fingerprint Voting System.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\obj\x64\Debug\Interop.WMPLib.dll
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\obj\x64\Debug\AxInterop.WMPLib.dll
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\obj\x64\Debug\Fingerprint Voting System.csproj.ResolveComReference.cache
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\obj\x64\Debug\Fingerprint_Voting_System.AddCandidate.resources
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\obj\x64\Debug\Fingerprint_Voting_System.AddElection.resources
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\obj\x64\Debug\Fingerprint_Voting_System.AddVoter.resources
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\obj\x64\Debug\Fingerprint_Voting_Sysyem.AdminLogin.resources
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\obj\x64\Debug\Fingerprint_Voting_System.AdminMenu.resources
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\obj\x64\Debug\Fingerprint_Voting_System.Properties.Resources.resources
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\obj\x64\Debug\Fingerprint_Voting_System.Result.resources
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\obj\x64\Debug\Fingerprint_Voting_System.TakeElection.resources
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\obj\x64\Debug\Fingerprint_Voting_System.Update.resources
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\obj\x64\Debug\Fingerprint_Voting_System.ViewCandidate.resources
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\obj\x64\Debug\Fingerprint_Voting_System.ViewResult.resources
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\obj\x64\Debug\Fingerprint_Voting_System.AdminMenu.gu-IN.resources
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\obj\x64\Debug\Fingerprint Voting System.csproj.GenerateResource.cache
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\obj\x64\Debug\Fingerprint Voting System.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\obj\x64\Debug\gu-IN\Fingerprint Voting System.resources.dll
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\obj\x64\Debug\Fingerpr.B243B961.Up2Date
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\obj\x64\Debug\Fingerprint Voting System.exe
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\obj\x64\Debug\Fingerprint Voting System.pdb
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\bin\x64\Debug\BouncyCastle.Cryptography.dll
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\bin\x64\Debug\EPPlus.dll
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\bin\x64\Debug\EPPlus.Interfaces.dll
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\bin\x64\Debug\EPPlus.System.Drawing.dll
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\bin\x64\Debug\itextsharp.dll
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\bin\x64\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\bin\x64\Debug\System.Buffers.dll
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\bin\x64\Debug\System.ComponentModel.Annotations.dll
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\bin\x64\Debug\System.Memory.dll
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\bin\x64\Debug\BouncyCastle.Cryptography.xml
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\bin\x64\Debug\EPPlus.xml
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\bin\x64\Debug\itextsharp.xml
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\bin\x64\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\bin\x64\Debug\System.Buffers.xml
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\bin\x64\Debug\System.Memory.xml
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml

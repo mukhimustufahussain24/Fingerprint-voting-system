@@ -1,0 +1,18 @@
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\obj\x64\Release\Fingerprint Voting System.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\obj\x64\Release\Interop.WMPLib.dll
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\obj\x64\Release\AxInterop.WMPLib.dll
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\obj\x64\Release\Fingerprint Voting System.csproj.ResolveComReference.cache
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\obj\x64\Release\Fingerprint_Voting_System.AddCandidate.resources
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\obj\x64\Release\Fingerprint_Voting_System.AddElection.resources
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\obj\x64\Release\Fingerprint_Voting_System.AddVoter.resources
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\obj\x64\Release\Fingerprint_Voting_Sysyem.AdminLogin.resources
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\obj\x64\Release\Fingerprint_Voting_System.AdminMenu.resources
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\obj\x64\Release\Fingerprint_Voting_System.Properties.Resources.resources
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\obj\x64\Release\Fingerprint_Voting_System.Result.resources
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\obj\x64\Release\Fingerprint_Voting_System.TakeElection.resources
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\obj\x64\Release\Fingerprint_Voting_System.Update.resources
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\obj\x64\Release\Fingerprint_Voting_System.ViewCandidate.resources
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\obj\x64\Release\Fingerprint_Voting_System.ViewResult.resources
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\obj\x64\Release\Fingerprint_Voting_System.AdminMenu.gu-IN.resources
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\obj\x64\Release\Fingerprint Voting System.csproj.GenerateResource.cache
+C:\Users\HP\Documents\SEM 5\Fingerprint Voting System\obj\x64\Release\Fingerprint Voting System.csproj.CoreCompileInputs.cache

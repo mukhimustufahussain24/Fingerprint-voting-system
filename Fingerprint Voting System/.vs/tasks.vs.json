@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Fingerprint Voting System",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-Fingerprint Voting System",
+      "appliesTo": "Fingerprint Voting System.csproj",
+      "type": "msbuild"
+    }
+  ]
+}
